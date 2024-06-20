@@ -1,0 +1,18 @@
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Aenean cursus mi ac justo fermentum consectetur
+
+<a href="/subfolder/https://github.com/razeXrite/kPlus_textReading"/>
+
+Donec dictum nisl justo, id euismod tellus varius eget
+Phasellus maximus ullamcorper leo non ornare
+
+<a href="https://monkeytype.com"/>
+
+Quisque tincidunt lectus non malesuada faucibus
+Vestibulum gravida tincidunt quam ac tristique
+
+<a href="https://ru.lipsum.com/feed/html"/>
+
+Donec tristique mauris hendrerit commodo dapibus
+Nunc fringilla sem.
